@@ -9,7 +9,7 @@ export default function About() {
             Trusted by developers across the world
           </h>
           <p className="text-2xl py-2">
-            There are many variations of passages of available, but
+            There are many variations of passages of lorium apsum available, but
             the majority have suffered alteration in some form, by injected
           </p>
         </div>
